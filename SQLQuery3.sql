@@ -1,4 +1,3 @@
-
 Select *
 From PortfolioProject..Covid_Deaths$
 where continent is not null
